@@ -1,6 +1,6 @@
 gunicorn==20.1.0
 mysqlclient==2.1.1
-
+python==3.8.10
 aiosignal==1.2.0
 asgiref==3.5.2
 async-timeout==4.0.2
