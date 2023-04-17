@@ -58,6 +58,6 @@ urllib3==1.26.10
 varint==1.0.2
 web3==5.30.0
 websockets==9.1
-whitenoise=6.4.0
+whitenoise==6.4.0
 zipp==3.8.0
 
